@@ -1,0 +1,54 @@
+.container {
+    padding-top: 50px;
+}
+.input-group {
+    height: 50px;
+}
+#text-message {
+    display: none;
+    color: white;
+    background-color: lightseagreen;
+    border-radius: 5px;
+}
+#spinner {
+    display: none;
+}
+.spinner-border {
+    color: lightseagreen;
+}
+.card {
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.15);
+}
+.card-body {
+    padding: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.card-img-top {
+    height: 400px;
+    border-radius: 7px;
+}
+.card-text {
+    margin-bottom: 5px;
+}
+.col {
+    cursor: pointer;
+}
+.heading {
+    color: lightseagreen;
+    letter-spacing: 1px;
+}
+.btn {
+    background-color:lightseagreen;
+    color: white;
+    font-weight: 600;
+}
+.btn:hover {
+    background-color: rgb(4, 107, 102);
+    color: white;
+}
+.details {
+    color: lightseagreen;
+}
